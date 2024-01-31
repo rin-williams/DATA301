@@ -1,0 +1,11 @@
+Product,Sales
+Mints,600
+Jelly Beans,378
+Chocolate,350
+Lollipops,300
+Gummies,210
+Candy,200
+Gum,200
+Ice cream,180
+Cookies,100
+Taffy,85
